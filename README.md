@@ -200,13 +200,6 @@ client.getUser(openid, function (err, result) {
 });
 ```
 
-## 捐赠
-如果您觉得Wechat OAuth对您有帮助，欢迎请作者一杯咖啡
-
-![捐赠wechat](https://cloud.githubusercontent.com/assets/327019/2941591/2b9e5e58-d9a7-11e3-9e80-c25aba0a48a1.png)
-
-## 交流群
-QQ群：157964097，使用疑问，开发，贡献代码请加群。
 
 ## Contributors
 感谢以下贡献者：
